@@ -1,0 +1,17 @@
+body{
+    background-size: cover}
+}    
+.head-anchor a{
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    float: right;
+    margin-left: 5px;
+    height: 1.5em;
+    padding:2px ;
+}
+.head-anchor a :hover{
+    color: black;
+    background-color: teal;
+    transition:0.5s ease-in-out;
+}
