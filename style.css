@@ -1,5 +1,8 @@
 body{
     background-size: cover}
+} 
+header{
+    background-color: black;
 }    
 .head-anchor a{
     text-decoration: none;
@@ -10,8 +13,11 @@ body{
     height: 1.5em;
     padding:2px ;
 }
-.head-anchor a :hover{
+.head-anchor a:hover{
     color: black;
     background-color: teal;
     transition:0.5s ease-in-out;
+}
+p{
+   margin-top: 2em; 
 }
